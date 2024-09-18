@@ -11,7 +11,7 @@ table,tr,th,td {
  table{
     margin: auto;
     border-collapse: collapse;
-    width: 80%;
+    width: 90%;
 }
 tr {
     height: 100px;
